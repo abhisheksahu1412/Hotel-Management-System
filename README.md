@@ -1,5 +1,5 @@
 
-📌 Hotel Management System (Java + JDBC + MySQL)
+# Hotel Management System (Java + JDBC + MySQL)
 📝 Project Description
 
 This is a console-based Hotel Management System developed using Java, JDBC, and MySQL.
